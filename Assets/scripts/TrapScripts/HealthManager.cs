@@ -6,6 +6,7 @@ public class HealthManager : MonoBehaviour
 {
     public int maxHealth;
     public int currentHealth;
+    public Healthbar healthbar;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,6 +25,7 @@ public class HealthManager : MonoBehaviour
     public void HurtPlayer(int damage)
     {
         currentHealth -= damage;
+        healthbar.UpdateHealth((float)currentHealth / (float)maxHealth);
     }
     public void HealPlayer(int healAmount)
     {
