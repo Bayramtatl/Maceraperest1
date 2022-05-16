@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 4cb0b468ea31c344ab0d0297be66f10e, type: 3}
       propertyPath: m_Name
-      value: StairsNarrow01
+      value: StairsNarrow01 Variant (1)
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4cb0b468ea31c344ab0d0297be66f10e, type: 3}
       propertyPath: m_RootOrder
@@ -25,15 +25,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4cb0b468ea31c344ab0d0297be66f10e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 74.88
+      value: -21.938976
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4cb0b468ea31c344ab0d0297be66f10e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 66.67
+      value: 58.763107
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4cb0b468ea31c344ab0d0297be66f10e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 157.3
+      value: 71.975685
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4cb0b468ea31c344ab0d0297be66f10e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -81,6 +81,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 4cb0b468ea31c344ab0d0297be66f10e, type: 3}
