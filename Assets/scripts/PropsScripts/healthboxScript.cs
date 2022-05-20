@@ -5,6 +5,7 @@ using UnityEngine;
 public class healthboxScript : MonoBehaviour
 {
     public int healthToGive = 25;
+    public int a;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,8 +21,11 @@ public class healthboxScript : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
-            FindObjectOfType<HealthManager>().HealPlayer(healthToGive);
+            a= FindObjectOfType<HealthManager>().HealPlayer(healthToGive);
         }
-        Destroy(gameObject);
+        if (a != 0)
+        {
+            Destroy(gameObject);
+        }
     }
 }

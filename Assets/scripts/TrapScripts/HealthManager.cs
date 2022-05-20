@@ -27,13 +27,18 @@ public class HealthManager : MonoBehaviour
         currentHealth -= damage;
         healthbar.UpdateHealth((float)currentHealth / (float)maxHealth);
     }
-    public void HealPlayer(int healAmount)
+    public int HealPlayer(int healAmount)
     {
+        if(currentHealth == 100)
+        {
+            return 0;
+        }
         currentHealth += healAmount;
         if(currentHealth > maxHealth)
         {
             currentHealth = maxHealth;
         }
         healthbar.UpdateHealth((float)currentHealth / (float)maxHealth);
+        return 1;
     }
 }
