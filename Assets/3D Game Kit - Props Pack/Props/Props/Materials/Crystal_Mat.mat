@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Crystal_Mat
   m_Shader: {fileID: 4800000, guid: 507830799f98b934b966a82289413a43, type: 3}
   m_ShaderKeywords: _EMISSION _METALLICGLOSSMAP
@@ -97,6 +98,7 @@ Material:
     - _marchDistance: 0.85
     - _numSteps: 5.25
     m_Colors:
-    - _Color: {r: 18.164822, g: 0.19020757, b: 0, a: 1}
+    - _Color: {r: 4.9999657, g: 18.164822, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0.9810735, b: 2.433572, a: 0}
-    - _EmissiveColor: {r: 0.990566, g: 0, b: 0.029887702, a: 1}
+    - _EmissiveColor: {r: 0.022595597, g: 0.99215686, b: 0, a: 1}
+  m_BuildTextureStacks: []
