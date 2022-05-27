@@ -7,6 +7,8 @@ public class HealthManager : MonoBehaviour
     public int maxHealth;
     public int currentHealth;
     public Healthbar healthbar;
+    public GameObject player;
+    public Transform spawn;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +22,9 @@ public class HealthManager : MonoBehaviour
         if(currentHealth  <= 0)
         {
             currentHealth = 0;
+            player.transform.position = spawn.position;
+            currentHealth = 100;
+            healthbar.UpdateHealth((float)currentHealth / (float)maxHealth);
         }
     }
     public void HurtPlayer(int damage)

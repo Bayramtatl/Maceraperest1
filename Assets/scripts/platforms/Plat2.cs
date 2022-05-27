@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class plat : MonoBehaviour
+public class Plat2 : MonoBehaviour
 {
     public GameObject Player;
 
