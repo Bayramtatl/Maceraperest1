@@ -1,2 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NVWaterMaterials" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAggAAAABIAABAKAAEAABAAAEAAAAAAAFAAAA=</HashCode>
+      <FileName>Assets\#NVJOB Water Shaders V2\#NVJOB Water Shaders V2\Editor\NVWaterMaterials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NVWaterShaderEditor" Collapsed="true">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAwgAAgAAAIgCACAAAgABQAAAAAAAEAABIiAA=</HashCode>
+      <FileName>Assets\#NVJOB Water Shaders V2\#NVJOB Water Shaders V2\Editor\NVWaterMaterials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadmeEditor" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAEAAAACAAAAECAGACAAAIAABEAAQACCAggAAE=</HashCode>
+      <FileName>Assets\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarterAssets.StarterAssetsDeployMenu" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAgACAAIBAAACCBSAAAAAAAEgQMRAAAAAAA=</HashCode>
+      <FileName>Assets\StarterAssets\Editor\StarterAssetsDeployMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

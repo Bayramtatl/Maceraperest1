@@ -1,4 +1,183 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NVWaterShaders" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgggAABEQAABgQABIgCAIAEAgAGUGEEIAAAEAACIiAI=</HashCode>
+      <FileName>Assets\#NVJOB Water Shaders V2\#NVJOB Water Shaders V2\NVWaterShaders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GotoSpawn" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\GotoSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rockScript" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\rockScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Healthbar" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\scripts\Healthbar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="platformAttach" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAQAAAAA=</HashCode>
+      <FileName>Assets\scripts\platformAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="healthboxScript" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAIAAAgQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\PropsScripts\healthboxScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaHurt" Collapsed="true">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\SeaScript\SeaHurt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="axeScript" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\axeScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bladeScript" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\bladeScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cutterScript" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\cutterScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fireScript" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\fireScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="greatAxeScript" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\greatAxeScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hammerScript" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\hammerScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthManager" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACAAAAAAAAAAAAAAAAAEAAACABAAAAAAAIA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\HealthManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HurtPlayer" Collapsed="true">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\HurtPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="saw2Script" Collapsed="true">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\saw2Script.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sawScript" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\sawScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shurikenScript" Collapsed="true">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\shurikenScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spearScript" Collapsed="true">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\spearScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spoonScript" Collapsed="true">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\TrapScripts\spoonScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileDisableAutoSwitchControls" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicRigidBodyPush" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAgAQAA=</HashCode>
+      <FileName>Assets\StarterAssets\ThirdPersonController\Scripts\BasicRigidBodyPush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Readme" Collapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\StarterAssets\TutorialInfo\Scripts\Readme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarterAssets.StarterAssetsInputs" Collapsed="true">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAEAABAACAAAkAAAAAAABiARAAAAgAAIAJACA=</HashCode>
+      <FileName>Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarterAssets.ThirdPersonController" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABWBEAAgBaMYAJQgAMxIJlIAAAAADAAArAiAAFClqUA=</HashCode>
+      <FileName>Assets\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
