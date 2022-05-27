@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cinemachine.Cinemachine3rdPersonAim" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAQAAAAAACABAAACAEAACAAAIAQAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\Cinemachine3rdPersonAim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineBlendListCamera" Collapsed="true">
+    <Position X="3.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAgAAABAEAApBACACAAAAIQAACgCCBgYQAAJFEAACIM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineBlendListCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineBrain" Collapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wMSQBIihgvADExYmIQAI5ABCEAgiAAAIAAAAAAAgCII=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineBrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineClearShot" Collapsed="true">
+    <Position X="5.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAgQAABQEAApEACACAAAAKyAAAgCCAAZRCAIFMAACKM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineClearShot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineCollider" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECRAICQICCIAAAAAAEIASkACAACAAQAAA0ADACAUxA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineConfiner" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAMIAIAAAAmAkAACAgAIAAAAAEAIwAAAiAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineConfiner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineConfiner2D" Collapsed="true">
+    <Position X="15" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAcAAAIBAAAEAEAACAAAAAAAAgAAAEIAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineConfiner2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineDollyCart" Collapsed="true">
+    <Position X="26" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAiAAAAAAgIAAIAAAAAAAAgAAAAAAAAAABAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineDollyCart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineExternalCamera" Collapsed="true">
+    <Position X="10" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAABAIAAAAAAAAAAAAAACAAAAAAABAAAACM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineExternalCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineFollowZoom" Collapsed="true">
+    <Position X="19.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAIAAAAAAEAACAAAAAAAACAAAhAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineFollowZoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineFreeLook" Collapsed="true">
+    <Position X="14.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQoBBAygZBKZFAAYDSEAISQAgAAASkCAAAAMNVgZGAc=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineFreeLook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineMixingCamera" Collapsed="true">
+    <Position X="1" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAIBAGAAJAAABCAEAAAYACQAAAAAAQAAAFEAACAM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineMixingCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachinePath" Collapsed="true">
+    <Position X="0.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAMAgAQBAAAAAECAgAAAAAAgCAAAAAEAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachinePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachinePipeline" Collapsed="true">
+    <Position X="31.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachinePipeline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachinePixelPerfect" Collapsed="true">
+    <Position X="33" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachinePixelPerfect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineSmoothPath" Collapsed="true">
+    <Position X="2.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAMAgAQhAAAABECAgAAAABAgCAAAAAEBgAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineSmoothPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineStateDrivenCamera" Collapsed="true">
+    <Position X="7.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAgQAABAEAApEkDACICAAIRAQGgCCBCZRAAIFUAACIM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineStateDrivenCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineStoryboard" Collapsed="true">
+    <Position X="17.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACABABAIAQACKEAAAAAKACEAAEQACAABCQAIGBAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineStoryboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineTargetGroup" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARBIBgIAgCAAAAAABUAMAQAAeAgAQARAAAAAAIAABA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineTargetGroup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Cinemachine.CinemachineVirtualCamera" Collapsed="true">
+    <Position X="12.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgBEACAEkAJBAAADAFgAQQIAAAAGCCAgBgKFoBACEM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineVirtualCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Cinemachine3rdPersonFollow" Collapsed="true">
+    <Position X="19.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgRAAAACAggVgAAAA0AIAAAQAAAAIAADAgBEEQAgAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\Cinemachine3rdPersonFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineBasicMultiChannelPerlin" Collapsed="true">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAgAQAAAAgAAAIAAAACAIAAAAgAAEAAAiA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineComposer" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQRAAigBEMECgACAhAgAEAEAAAAIcAAAgAEEEAAgI=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineComposer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineFramingTransposer" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQUACAiqAnNFCkACAlIgAEKEShQCIcAAAgAEFAlAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineFramingTransposer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineGroupComposer" Collapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQQAAAAKBjFAAEgAAEAAAAAAShACAAAAAgAAEAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineGroupComposer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineHardLockToTarget" Collapsed="true">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAIAgAAAAAAAAAAAAAAAgAAEAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineHardLockToTarget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineHardLookAt" Collapsed="true">
+    <Position X="10.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAEAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineHardLookAt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineOrbitalTransposer" Collapsed="true">
+    <Position X="21.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQRwgAABIAAAICAEAABAAAAIAAICKAAAhOFAAKAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineOrbitalTransposer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachinePOV" Collapsed="true">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAggABAIAIJACCkAAAAAAAAACACAAEgAEEAACgA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachinePOV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineSameAsFollowTarget" Collapsed="true">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAgAAEAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineSameAsFollowTarget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineTrackedDolly" Collapsed="true">
+    <Position X="17.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAUAhAASoIhAAAAIAACABAAAAAgIAEAAAAg=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineTrackedDolly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineTransposer" Collapsed="true">
+    <Position X="21.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIBQgAQAAIBgAQIAkAAABKAACAAgAAgAkgEEAAJIo=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Components\CinemachineTransposer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineBlend" Collapsed="true">
+    <Position X="27.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAAAkiEAAAAAgAAAAAAAAAAAACAAAQhAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineBlend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.StaticPointVirtualCamera" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAAAAAAgAAgECAgAAAQAAABAAAAAAAAAlEAAAAM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineBlend.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Cinemachine.BlendSourceVirtualCamera" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAgAAgEDAgAAAQAAABAAEAAAAAAlEAAAAM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineBlend.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Cinemachine.CinemachineBlenderSettings" Collapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAEAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineBlenderSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineComponentBase" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EECAQAAAAJAIAAAACAgAAAgCABAQAACQAAiSEEAAABA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineComponentBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Documentation" Collapsed="true">
+    <Position X="26" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineCore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineCore" Collapsed="true">
+    <Position X="34.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASQBkAEEAAAEsFYAIAAAhAiiwgBAIAQAAA2BhCAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineCore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineExtension" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBQAAAAKAIAAAAGAQAACAAAAAQAAiAAAgAEQAASEA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachinePathBase" Collapsed="true">
+    <Position X="1.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQYAAAYMAQAwgAAAAAACAsAAKCAAgqBoAIAAAAAAQCI=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePathBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.AxisStatePropertyAttribute" Collapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.OrbitalTransposerHeadingPropertyAttribute" Collapsed="true">
+    <Position X="26" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.LensSettingsPropertyAttribute" Collapsed="true">
+    <Position X="33" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.VcamTargetPropertyAttribute" Collapsed="true">
+    <Position X="34.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineBlendDefinitionPropertyAttribute" Collapsed="true">
+    <Position X="29.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.SaveDuringPlayAttribute" Collapsed="true">
+    <Position X="31.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.NoSaveDuringPlayAttribute" Collapsed="true">
+    <Position X="24.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.TagFieldAttribute" Collapsed="true">
+    <Position X="24.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.NoiseSettingsPropertyAttribute" Collapsed="true">
+    <Position X="34.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineEmbeddedAssetPropertyAttribute" Collapsed="true">
+    <Position X="27.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.DocumentationSortingAttribute" Collapsed="true">
+    <Position X="27.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachinePropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineVirtualCameraBase" Collapsed="true">
+    <Position X="7.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GYwBAEAACDBoQAsHGItAAgxIARHAAQiIEAhYnUIJyAs=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineVirtualCameraBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Cinemachine.ConfinerOven" Collapsed="true">
+    <Position X="34.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARAAIAQAAIBQAABAAAAAAQAAAAAAAAAAIABQBgjAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\ConfinerOven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.NoiseSettings" Collapsed="true">
+    <Position X="10.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAQAAAgEAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\NoiseSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.RuntimeUtility" Collapsed="true">
+    <Position X="29.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAgAQABAAAAAAAgAAAAAAAAAAQAAACAAIAAIA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\RuntimeUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.SignalSourceAsset" Collapsed="true">
+    <Position X="9.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\SignalSourceAsset.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Cinemachine.TargetPositionCache" Collapsed="true">
+    <Position X="26" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAACEAZAAAgCAAABEgAAAAAAGEAAAIAyAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\TargetPositionCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.UpdateTracker" Collapsed="true">
+    <Position X="33" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAAAAAAACIAAAIAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\UpdateTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineInputProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACBAAAAAAAgAAAAAAAAoAAIEACAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Helpers\CinemachineInputProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Cinemachine.CinemachineTriggerAction" Collapsed="true">
+    <Position X="31.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAgAAAAACQAAAAAAAAAFABAIAMQAAigAAECBA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Helpers\CinemachineTriggerAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.GroupWeightManipulator" Collapsed="true">
+    <Position X="29.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAABAAEAAAAABAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Helpers\GroupWeightManipulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineCollisionImpulseSource" Collapsed="true">
+    <Position X="5.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAIAgAAECAAAAAAAEQEAAgIQAYggAAACAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineCollisionImpulseSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineFixedSignal" Collapsed="true">
+    <Position X="8.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAgAAAAAAAAAAAAACAIACAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineFixedSignal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineImpulseDefinitionPropertyAttribute" Collapsed="true">
+    <Position X="33" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineImpulseDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineImpulseDefinition" Collapsed="true">
+    <Position X="31.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAwAAMAAAQAACEMAgCYAAAEAAAQBIIABAAAAACg=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineImpulseDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineImpulseListener" Collapsed="true">
+    <Position X="21.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAEBAAIAAEAAiAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineImpulseListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineImpulseEnvelopePropertyAttribute" Collapsed="true">
+    <Position X="34.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineImpulseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineImpulseChannelPropertyAttribute" Collapsed="true">
+    <Position X="29.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineImpulseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineImpulseManager" Collapsed="true">
+    <Position X="24.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAACAwAAAAIAAAAAAADEAAAQAAAAQAAAgABAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineImpulseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineImpulseSource" Collapsed="true">
+    <Position X="5.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAJEgAAAEAAAAAAAAAAIAAAAAAAQEAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineImpulseSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.CinemachineIndependentImpulseListener" Collapsed="true">
+    <Position X="26" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAgAAEFAAAAAEAIgAAAAAAACAAAAAAAAAACAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Impulse\CinemachineIndependentImpulseListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemachineCameraOffset" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIIAAAACAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineCameraOffset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemachineRecomposer" Collapsed="true">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAABIgIAAEAACCAAAAAAAAAAAAAAIAAAAg=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineRecomposer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemachineTouchInputMapper" Collapsed="true">
+    <Position X="27.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAEAAAAAAACAAABAAAAACAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Helpers\CinemachineTouchInputMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemachineMixer" Collapsed="true">
+    <Position X="29.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAoQAACAAAAQAAAAACAAAAAAAAAABAAIA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Timeline\CinemachineMixer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemachineShot" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Timeline\CinemachineShot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CinemachineShotPlayable" Collapsed="true">
+    <Position X="24.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Timeline\CinemachineShotPlayable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemachineTrack" Collapsed="true">
+    <Position X="29.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Timeline\CinemachineTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.CinemachineDebug" Collapsed="true">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgCAABAAgAAAAAAAAACAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineDebug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.GaussianWindow1d&lt;T&gt;" Collapsed="true">
+    <Position X="3" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAAAAAABEAAEQAAAAAAABAAAAAAQQIgAAQABAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\GaussianFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.GaussianWindow1D_Vector3" Collapsed="true">
+    <Position X="0.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\GaussianFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.GaussianWindow1D_Quaternion" Collapsed="true">
+    <Position X="3" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\GaussianFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.GaussianWindow1D_CameraRotation" Collapsed="true">
+    <Position X="5.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\GaussianFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.PositionPredictor" Collapsed="true">
+    <Position X="27.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAAAAAABAACAAAAAAAQIAAAAAYAAAAAAAAFQAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\Predictor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.Damper" Collapsed="true">
+    <Position X="24.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAACCAAAAAAAAAQAAEAIAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\Predictor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.HeadingTracker" Collapsed="true">
+    <Position X="31.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACEACBAAIAAAAAAgAIIAIAIAAAAAggAAQAQI=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\Predictor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.SplineHelpers" Collapsed="true">
+    <Position X="33" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAIBAAQAAAAAIAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\SplineHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.UnityVectorExtensions" Collapsed="true">
+    <Position X="31.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAgAgAAAIgRAIQAAAIAECAAAAAAQA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\UnityVectorExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.UnityQuaternionExtensions" Collapsed="true">
+    <Position X="27.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAAAQAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\UnityVectorExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.Utility.UnityRectExtensions" Collapsed="true">
+    <Position X="29.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\UnityVectorExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.PostFX.CinemachinePostProcessing" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\PostProcessing\CinemachinePostProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinemachine.PostFX.CinemachineVolumeSettings" Collapsed="true">
+    <Position X="33" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\PostProcessing\CinemachineVolumeSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Cinemachine.AxisState" Collapsed="true">
+    <Position X="26" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACwAIAAAQACAJAAAgCEAAADQAkAaIAAAAgQgAAEBAAE=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\AxisState.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Cinemachine.CameraState" Collapsed="true">
+    <Position X="27.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYBAAAggIBIAAUAAAgBAISIABBIAAAAIwAQACMGAAgA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CameraState.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Cinemachine.CinemachineBlendDefinition" Collapsed="true">
+    <Position X="29.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAQAAAAAEAAEQACEAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineBlend.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Cinemachine.AxisBase" Collapsed="true">
+    <Position X="24.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAIAAAAAAAAAAAAAQKAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineInputAxisDriver.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Cinemachine.CinemachineInputAxisDriver" Collapsed="true">
+    <Position X="31.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAIAACAAAAAAEAAAAAAAAAUAAACAAAAAABAAAE=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\CinemachineInputAxisDriver.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Cinemachine.LensSettings" Collapsed="true">
+    <Position X="33" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEgIAAAAACCAEIAkAAAIAAEAAABIAASgAIAAAICAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\LensSettings.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Cinemachine.ICinemachineTargetGroup" Collapsed="true">
+    <Position X="26" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAIAAAAAAAAAAQAAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Behaviours\CinemachineTargetGroup.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Cinemachine.ICinemachineCamera" Collapsed="true">
+    <Position X="24.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAgAAgECAgAAAQAAABAAAAAAAAAlEAAAAM=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\ICinemachineCamera.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Cinemachine.ISignalSource6D" Collapsed="true">
+    <Position X="27.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Library\PackageCache\com.unity.cinemachine@2.8.4\Runtime\Core\SignalSourceAsset.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
