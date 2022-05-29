@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HealthManager : MonoBehaviour
 {
@@ -9,11 +10,15 @@ public class HealthManager : MonoBehaviour
     public Healthbar healthbar;
     public GameObject player;
     public Transform spawn;
+    public Text Sayac;
+    int flag = 1;
     // Start is called before the first frame update
     void Start()
     {
         currentHealth = maxHealth;
-        
+        Sayac.text = "Þövalye : 1";
+
+
     }
 
     // Update is called once per frame
@@ -21,10 +26,12 @@ public class HealthManager : MonoBehaviour
     {
         if(currentHealth  <= 0)
         {
+            flag++;
             currentHealth = 0;
             player.transform.position = spawn.position;
             currentHealth = 100;
             healthbar.UpdateHealth((float)currentHealth / (float)maxHealth);
+            Sayac.text = "Þövalye : "+ flag;
         }
     }
     public void HurtPlayer(int damage)
