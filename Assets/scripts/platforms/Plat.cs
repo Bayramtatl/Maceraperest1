@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Plat : MonoBehaviour
 {
     public GameObject Player;
+    public Text countDownText;
 
     private void OnTriggerEnter(Collider other)
     {
