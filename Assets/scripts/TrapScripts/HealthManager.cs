@@ -16,7 +16,7 @@ public class HealthManager : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-        Sayac.text = "Þövalye : 1";
+        Sayac.text = "Adventurer : 1";
 
 
     }
@@ -31,7 +31,7 @@ public class HealthManager : MonoBehaviour
             player.transform.position = spawn.position;
             currentHealth = 100;
             healthbar.UpdateHealth((float)currentHealth / (float)maxHealth);
-            Sayac.text = "Þövalye : "+ flag;
+            Sayac.text = "Adventurer : "+ flag;
         }
     }
     public void HurtPlayer(int damage)
