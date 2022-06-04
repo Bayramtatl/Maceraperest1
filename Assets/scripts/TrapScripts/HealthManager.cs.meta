@@ -3,7 +3,11 @@ guid: 22c6b4bc8a9429641b6f0532735b6f49
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - healthbar: {instanceID: 0}
+  - player: {fileID: 4416926081852918481, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+  - spawn: {instanceID: 0}
+  - Sayac: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
