@@ -11,13 +11,12 @@ public class HealthManager : MonoBehaviour
     public GameObject player;
     public Transform spawn;
     public Text Sayac;
-    int flag = 1;
+    static int flag;
     // Start is called before the first frame update
     void Start()
     {
         currentHealth = maxHealth;
-        Sayac.text = "Adventurer : 1";
-
+        Sayac.text = "Adventurer : "+ flag;
 
     }
 

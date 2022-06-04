@@ -8,9 +8,14 @@ public class CountDownTimer : MonoBehaviour
 {
 
     public Text countDownText;
+    private void Start()
+    {
+        Debug.Log("Timer");
+    }
 
     private void Update()
     {
+      
         //currentTime += 1 * Time.deltaTime;
         float t = Time.time - 0;
         string minutes = ((int)t / 60).ToString();
