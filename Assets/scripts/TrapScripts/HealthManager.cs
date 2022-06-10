@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class HealthManager : MonoBehaviour
 {
+    public static HealthManager instance;
     public int maxHealth;
     public int currentHealth;
     public Healthbar healthbar;
@@ -13,6 +14,13 @@ public class HealthManager : MonoBehaviour
     public Text Sayac;
     static int flag;
     // Start is called before the first frame update
+
+    void Awake()
+    {
+        instance = this;
+        //DontDestroyOnLoad(instance);
+
+    }
     void Start()
     {
         currentHealth = maxHealth;

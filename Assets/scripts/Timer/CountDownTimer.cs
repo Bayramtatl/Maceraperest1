@@ -6,8 +6,15 @@ using UnityEngine.UI;
 
 public class CountDownTimer : MonoBehaviour
 {
-
+    public static CountDownTimer instance;
     public Text countDownText;
+
+    void Awake()
+    {
+        instance = this;
+        
+
+    }
 
     private void Update()
     {
