@@ -8,10 +8,6 @@ public class CountDownTimer : MonoBehaviour
 {
 
     public Text countDownText;
-    private void Start()
-    {
-        Debug.Log("Timer");
-    }
 
     private void Update()
     {
