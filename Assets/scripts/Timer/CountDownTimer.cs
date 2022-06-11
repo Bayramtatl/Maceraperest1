@@ -13,14 +13,11 @@ public class CountDownTimer : MonoBehaviour
     string minutes;
     string seconds;
     
-
     void Awake()
     {
         instance = this;
         
-
     }
-
     private void Update()
     {
 
@@ -45,12 +42,9 @@ public class CountDownTimer : MonoBehaviour
 
        
     }
-
     public void resetTime()
     {
-
-        
-       
+      
     }
 
 }
