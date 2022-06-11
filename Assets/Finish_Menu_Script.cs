@@ -17,6 +17,8 @@ public class Finish_Menu_Script : MonoBehaviour
         
         //Debug.Log(HealthManager.instance.maxHealth);
         finishStateText.text = HealthManager.instance.Sayac.text + " " + "Time: " + CountDownTimer.instance.countDownText.text;
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.Confined;
 
     }
 
