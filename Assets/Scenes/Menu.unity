@@ -197,7 +197,7 @@ MonoBehaviour:
   m_Text: "Hareket : W,A,S,D\nZ\u0131plama : Bosluk\nKamera : Fare Hareketleri\n\n\n\xC7e\u015Fitli
     tuzaklardan hasar yemeden haritalar\u0131n biti\u015F noktas\u0131na ula\u015Fmaya
     \xE7al\u0131\u015F. Haritan\u0131n baz\u0131 k\u0131s\u0131mlar\u0131nda can\u0131n\u0131
-    tamamlaman i\xE7in s\xFCprizler bulunmakta. BOL \u015EANS !"
+    tamamlaman i\xE7in s\xFCrprizler bulunmakta. BOL \u015EANS !"
 --- !u!222 &42818386
 CanvasRenderer:
   m_ObjectHideFlags: 0
