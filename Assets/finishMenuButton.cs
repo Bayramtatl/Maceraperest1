@@ -7,7 +7,7 @@ public class finishMenuButton : MonoBehaviour
 {
     public void BackToMenu()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(0);
 
     }
 

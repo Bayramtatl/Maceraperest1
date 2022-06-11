@@ -9,8 +9,8 @@ public class Start_Menu_Script : MonoBehaviour
 {
     public void LoadGame()
     {
-        CountDownTimer.instance.resetTime();
-        SceneManager.LoadScene(0);
+
+        SceneManager.LoadScene(1);
         
     }
     public void EndGame()
